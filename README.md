@@ -115,6 +115,7 @@ numéricos.
 ## Contacto
 
 Agustín Estramil  
+agustin.estramil@fcea.edu.uy
 Instituto de Estadística  
 Facultad de Ciencias Económicas y de Administración  
 Universidad de la República  
